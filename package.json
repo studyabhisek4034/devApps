@@ -1,0 +1,14 @@
+{
+    "name": "BeautyApp",
+    "version": "1.0.0",
+    "description": "Beauty Node.js Application",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Abhisek",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
